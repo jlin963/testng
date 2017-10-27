@@ -31,7 +31,7 @@ Always make sure your issue is happening on the latest TestNG version. Bug repor
 ### Have you considered sending a pull request instead of filing an issue?
 The best way to report a bug is to provide the TestNG team with a full test case reproducing the issue.
 Maybe you can write a runnable test case (check the `src/test/` folder for examples) and propose it in a pull request 
-Don't worry if the CI fails because it is the expected behavior.
+Don't worry if the CI fails because it is the expected behavior!
 This pull request will be a perfect start to find the fix :)
 
 ### How to create a pull request?
