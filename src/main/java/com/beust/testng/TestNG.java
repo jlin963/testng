@@ -1,7 +1,7 @@
 package com.beust.testng;
 
 /**
- * For backward compatibility.
+ * For backward compatibility.!
  *
  * Created on Jun 18, 2005
  * @author <a href="mailto:cedric@beust.com">Cedric Beust</a>
