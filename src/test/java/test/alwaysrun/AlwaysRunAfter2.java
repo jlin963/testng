@@ -12,7 +12,7 @@ public class AlwaysRunAfter2 {
     throw new RuntimeException("Failing in setUp");
   }
 
-  // Should not be run
+  // Should not be run ever
   @AfterClass
   public void tearDown() {
     m_success = false;
