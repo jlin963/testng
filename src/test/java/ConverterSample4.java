@@ -10,6 +10,7 @@
  * Sample file for the Javadocv annotations to Java 5 annotations converter for the default package
  * @author micheb10 12-Sep-2006
  *
+ *
  */
 public class ConverterSample4 {
 	/**
