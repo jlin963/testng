@@ -9,6 +9,7 @@ import java.util.logging.SimpleFormatter;
  * default formatter of java.util.logging outputs everything on two
  * lines and it's ugly as butt.
  *
+ *
  * @author Cedric Beust, May 2, 2004
  *
  */
