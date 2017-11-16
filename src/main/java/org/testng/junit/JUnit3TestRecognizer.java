@@ -6,6 +6,7 @@ import junit.framework.Test;
 
 /**
  *
+ *
  * @author lukas
  */
 public class JUnit3TestRecognizer implements JUnitTestRecognizer {
