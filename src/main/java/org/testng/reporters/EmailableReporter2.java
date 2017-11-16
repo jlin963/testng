@@ -459,6 +459,7 @@ public class EmailableReporter2 implements IReporter {
         }
 
         // Write exception (if any)
+        //
         Throwable throwable = result.getThrowable();
         if (throwable != null) {
             writer.print("<tr><th");
