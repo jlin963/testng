@@ -137,6 +137,7 @@ public class FailedReporter extends TestListenerAdapter implements IReporter {
 
   /**
    * Generate testng-failed.xml
+   *
    */
   private void createXmlTest(ITestContext context, List<ITestNGMethod> methods, XmlTest srcXmlTest) {
     XmlTest xmlTest = new XmlTest(m_xmlSuite);
